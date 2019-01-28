@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/robertkrimen/otto"
-	"github.com/txthinking/frank/function"
+	"github.com/uwehdaub/frank/function"
 )
 
 // VM
